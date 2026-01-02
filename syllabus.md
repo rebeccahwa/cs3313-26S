@@ -5,28 +5,25 @@ permalink: /syllabus/
 ---
 
 
-**Instructor:** Prof. Arkady Yerukhimovich
-**Email:** [arkady@gwu.edu](mailto:arkady@gwu.edu)
+**Instructor:** Prof. Rebecca Hwa
+**Email:** [rebecca.hwa@gwu.edu](mailto:rebecca.hwa@gwu.edu)
 **Prerequisites:** Software Engineering (CS 2113); and Discrete Structures II (CS2312) or Introduction to Computer Systems (CS 2460) or Computer Architecture (CS 2461) (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/)).
 
 **Time/Place:**
   * **Class meets: Tuesday, Thursday 11:10am - 12:25pm in SEH 1300, 1400, and 1450**
 
 **Office Hours:**
-Check [Course Homepage](https://gw-cs3313.github.io/) for updated hours.
+Check [Course Homepage](https://rebeccahwa.github.io/cs3313-26S) for updated hours.
 
 **Online Platforms**
-* Piazza for discussions
-* Gradescope for homework submission and grades
 * Blackboard for synchronous lectures and recordings
 * Webpage for lecture slides, tutorials, and other materials
 
 **Course Staff:**
-  - [Suvasree Biswas](mailto:suvasree@gwmail.gwu.edu) - GTA
-  - [Jie Hou](mailto:houjie@gwu.edu) - GTA
-  - [Freya Rosenstein](frrosenstein@gwu.edu) - UTA
-  - [Ozzy Simpson](mailto:ozzy@gwu.edu) - UTA
-  - [Laura Anker](mailto:lanker70@gwu.edu) - LA
+  - [Alper Cetinkaya](mailto:alper.cetinkaya@gwu.edu) - GTA
+  - [Freya Rosenstein](frrosenstein@gwu.edu) - GTA
+  - [Edward Bae](mailto:edward.bae@gwu.edu) - UTA
+  - [Adam Gizis](mailto:agizis@gwu.edu) - LA
 
 ### Course Description and Learning Outcomes  ###
 
@@ -56,7 +53,7 @@ There are three options for a textbook; the instructor recommends the book by Si
 You must be registered in a lab section -- the sections meet on Wednesday 10:00am and 11:15am. These will be conducted by the TAs. The labs will review material but will also include exercises, quizzes and discussions.
 
 ### Workload and Grading  ###
-The course will be taught through live synchronous lectures. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 5 hours of independent learning. In addition, the laboratory section will require 75 minutes of direct instruction and will include independent learning exercises to assist in your learning. Over the course of the semester, your independent learning will include readings (lecture notes and/or textbook), and homeworks. The lectured will include presentation of material, exercises, and discussions.  All lectures will be recorded, and recordings will be provided on blackboard.
+The course will be taught through live lectures. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 5 hours of independent learning. In addition, the laboratory section will require 75 minutes of direct instruction and will include independent learning exercises to assist in your learning. Over the course of the semester, your independent learning will include readings (lecture notes and/or textbook), and homeworks. The lectured will include presentation of material, exercises, and discussions.  All lectures will be recorded, and recordings will be provided on blackboard.
 
 **Grading:**
    * **20%: Class participation** The class participation grade will consist of the following:
@@ -64,10 +61,10 @@ The course will be taught through live synchronous lectures. As a 3 credit cours
      * In-class quizzes: Quizzes will be held either during the lab or during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class.   
      * Lab exercises:  There will be required in-class (group) exercises during the lab or lecture sessions.  Participation in and submission of these exercises will count towards your participation grade.
 
-   * **30%: Homeworks.** A number of homework assignments will be given. The goal of the homework is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homework.  The lowest homework score will be dropped when computing the grade.
+   * **20%: Homeworks.** A number of homework assignments will be given. The goal of the homework is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homework.  The lowest homework score will be dropped when computing the grade.
 
-   * **50%: Three exams.**
-    * There will be two (midterm) exams, one covering regular languages,  finite automata, context free languages and push-down automata; and the other covering computability theory. The final exam will be comprehensive but will focus mostly on content after the second midterm exam.  The exams will be worth 20% each with the exam on which you receive the lowest score counting for only 10%.   
+   * **60%: Three exams.**
+    * There will be two (midterm) exams, one covering regular languages,  finite automata, context free languages and push-down automata; and the other covering computability theory. The final exam will be comprehensive but will focus mostly on content after the second midterm exam.  The exams will be worth 20% each.   
 
 **Final Grading**
   * Do I curve the grades? Yes.
@@ -92,23 +89,25 @@ The course will be taught through live synchronous lectures. As a 3 credit cours
 
 **Grades will be posted on Blackboard** -- make sure you check and inform the instructors (by email) if you see any disparity between what is posted on blackboard and what you think your grades are.  You have one week after the grades are posted to contact the instructor -- after that there will be no regrading.
 
-**Email policy:** You can send email to my GW email address. However, do not expect an instantaneous response. We encourage you to post questions on Piazza since that will be monitored by the entire instruction team and your classmates.
+**Email policy:** You can send email to my GW email address. However, do not expect an instantaneous response. 
 
 **Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you contact me. You are still responsible for all material you missed, which generally will be available on the course website or on blackboard.
 
-**Academic Integrity policy:** It is very important in this course (and in life), that your work be your own. These guidelines will help you achieve that.
+**Academic Integrity policy:** 
 
 You must:
-  * Do your best to solve all homework, quizzes, and exams on your own.
+  * Do your best to solve all homework on your own first, seek allowable help only after you've thought about it for some time.
+  * Complete quizzes and exams without help.
   * Notify me if you are using a tutor (this is not a problem, just let me know).
 
 You may:
-  * Discuss general approaches to solving the homework problems with other students by referring to questions in the textbook.
-  * Discuss general mathematical concepts (proof techniques, formalisms, etc.) with another student although it is recommended that you contact one of the TAs or LAs for this purpose.
+  * Discuss **general approaches** to solving the homework problems with other students by referring to questions in the textbook.
+  * Discuss **general mathematical concepts** (proof techniques, formalisms, etc.) with another student but we strongly recommended that you contact one of the TAs or LAs for this purpose. 
+  * Discuss **general course concepts** (not specific homework problems) with an AI assistant; **however**, you _must save the transcript_ of your session and _review it with one of the TAs or LAs_.  
 
 You may not:
-  * Copy homework solutions from other students or people (or places/web) outside of the class.
-  * Have someone else complete your homework for you.
+  * Copy homework solutions from other students or people (or places/web) outside of the class. 
+  * Have someone else complete your homework for you (including AI assistants).
   * Copy solutions from the internet.
   * Write solution as a group and then submit identical or slightly modified versions---if you discuss general approaches to solving a problem together, you still must be writing up your own independent solution.
 

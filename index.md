@@ -5,22 +5,20 @@ layout: home
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><b>Prof. Arkady Yerukhimovich</b></li>
-        <li><a href="mailto:arkady@gwu.edu">arkady@gwu.edu</a></li>
-        <li><b> Jie Hou  </b> (GTA) </li>
-        <a href="mailto:houjie@gwu.edu">houjie@gwu.edu</a>
-        <li><b> Ozzy Simpson </b> (UTA) </li>
-        <li><a href="mailto:ozzy@gwu.edu">ozzy@gwu.edu</a> </li>
+        <li><b>Prof. Rebecca Hwa</b></li>
+        <li><a href="mailto:rebecca.hwa@gwu.edu">rebecca.hwa@gwu.edu</a></li>
+        <li><b> Alper Cetinkaya  </b> (GTA) </li>
+        <a href="mailto:alper.cetinkaya@gwu.edu">alper.cetinkaya@gwu.edu</a>
+        <li><b> Edward Bae </b> (UTA) </li>
+        <li><a href="mailto:edward.bae@gwu.edu">edward.bae@gwu.edu</a> </li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-        <li><b> Suvasree Biswas </b> (GTA)</li>
-        <li><a href="mailto:suvasree@gwmail.gwu.edu">suvasree@gwmail.gwu.edu</a> </li>
-        <li><b> Freya Rosenstein </b> (UTA) </li>
+        <li><b> Freya Rosenstein </b> (GTA)</li>
         <li><a href="mailto:frrosenstein@gwu.edu">frrosenstein@gwu.edu</a> </li>
-        <li><b> Laura Anker </b> (LA) </li>
-        <li><a href="mailto:lanker70@gwu.edu">lanker70@gwu.edu</a> </li>
+        <li><b> Adam Gizis </b> (UTA) </li>
+        <li><a href="mailto:agizis@gwu.edu">agizis@gwu.edu</a> </li>
       </ul>
 </div>
 </div>
@@ -35,9 +33,11 @@ layout: home
   - <b>This website is permanently under construction - all content subject to change!<b>
 
 ## Class Resources ##
+<!--
   - [Piazza](https://piazza.com/gwu/spring2025/cs3313)
-  - [Blackboard](http://blackboard.gwu.edu)
   - [Gradescope](https://www.gradescope.com/courses/949314)
+  -->
+  - [Blackboard](http://blackboard.gwu.edu)
   - [JFLAP](http://jflap.org)
   - [JFLAP tutorial and installation video (provided by Grant McClearn, Class of 2021; currently at Stanford)](https://youtu.be/xA2D7kv8IzY)
 
@@ -45,32 +45,31 @@ layout: home
 
 <div style="font-size:90%">
 
-| Introduction  | Materials
+| Introduction  | Materials 
 | :--- |:---  |
-| Week 1-Lecture 0 |   [Lecture 0 -- Course Introduction](lectures/lecture0.pdf) |  
-
+| Week 1-Lecture 0 |   Lecture 0 -- Course Introduction |   
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
-| Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | [Lecture 1 -- Finite Automata](lectures/lecture1.pdf) <br> [Lecture 2 -- Building DFAs](lectures/lecture2_marked.pdf) <br> [Quiz 1](quiz/quiz1.pdf) <br> [Review of Proof Techniques](labs/ProofReview.pdf)|
-| Nondeterministic Finite Automata (Week 2) <br>  <br>  | [Lecture 3 -- Regular Languages and Nondeterminism](lectures/lecture3_marked.pdf) <br> [Lecture 4 -- NFA==DFA](lectures/lecture4_marked.pdf) <br> [Lab 1](labs/Lab1_web.pdf) <br> [Quiz 2](quiz/quiz2.pdf)|
-| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | [Lecture 5 -- NFAs and Regular Expressions](lectures/lecture5_marked.pdf) <br> [Lecture 6 -- Regular Language Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 2](labs/Lab2_web.pdf) <br> [Quiz 3](quiz/quiz3.pdf) |
-| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | [Lecture 7 -- Proving Languages Not Regular](lectures/lecture7_marked.pdf) <br> [Lecture 8 -- PDAs](lectures/lecture8_marked.pdf) <br> [Hackathon](lectures/Hackathon.jpg) <br> [Lab 3](labs/Lab3_web.pdf) |
-| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  | [Lecture 9 -- Context Free Grammars](lectures/lecture9_marked.pdf) <br> [Lecture 10 -- CFG=PDA](lectures/lecture10_marked.pdf) <br> [Lab 4](labs/lab4_web.pdf) |
-| <br> <b> Exam 1 (Week 6) Feb. 20 </b> | All material on finite automata <br> [Lecture 11 -- Exam review](lectures/lecture11_marked.pdf) |
+| Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | Lecture 1 -- Finite Automata<br> Lecture 2 -- Building DFAs <br> Quiz 1 <br> |
+| Nondeterministic Finite Automata (Week 2) <br>  <br>  | Lecture 3 -- Regular Languages and Nondeterminism <br> Lecture 4 -- NFA==DFA <br> Lab 1 <br> |
+| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | Lecture 5 -- NFAs and Regular Expressions <br> Lecture 6 -- Regular Language Pumping Lemma <br> Lab 2 <br> Quiz 3 |
+| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | Lecture 7 -- Proving Languages Not Regular <br> Lecture 8 -- PDAs  <br>  <br> Lab 3 |
+| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  | Lecture 9 -- Context Free Grammars <br> Lecture 10 -- CFG=PDA <br> Lab 4 |
+| <br> <b> Exam 1 (Week 6)  </b> | All material on finite automata <br> Lecture 11 -- Exam review |
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
-|  Turing Machines (Week 7) <br>  <br>   |  [Lecture 12 -- Turing Machines](lectures/lecture12_marked.pdf) <br> [Lecture 13 -- More Turing Machines](lectures/lecture13_marked.pdf) <br> [Lab 5](labs/Lab5_web.pdf) <br> [Quiz 4](quiz/quiz4.pdf)|
-|  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |  [Lecture 14 -- Decidable and Turing Recognizable Languages](lectures/lecture14_marked.pdf) <br> [Lecture 15 -- An Undecidable Language](lectures/lecture15_marked.pdf) <br> [Lab 6](labs/Lab6_web.pdf) |
-|  Reductions (Week 9) <br>  <br>   | [Lecture 16 -- Proofs by Reduction](lectures/lecture16.pdf) <br> [Lecture 17 -- Reductions and Kolmogorov Complexity](lectures/lecture17_marked.pdf) <br> [Lab 7](labs/Lab7_web.pdf)|
-| <b> Exam 2 (Week 10) Mar. 27 </b> | All material on Turing machines and computability  <br> [Lecture 18 -- Exam review](lectures/lecture18_marked.pdf)|
+|  Turing Machines (Week 7) <br>  <br>   |  
+|  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   | |
+|  Reductions (Week 9) <br>  <br>   | |
+| <b> Exam 2 (Week 10) </b> | |
 
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
-|  P and NP (Week 11) <br>  <br>   | [Lecture 19 -- P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- NP](lectures/lecture20_marked.pdf) <br> [Quiz 5](quiz/quiz5.pdf) <br> [Lab 9](labs/Lab9_web.pdf) |
-|  NP Completeness (Week 12) <br>  <br>   | [Lecture 21 -- NP-Completeness](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-Completeness](lectures/lecture22_marked.pdf) <br> [Lab 10](labs/lab10_web.pdf) |
-|  Complexity Classes and Interactive Proofs (Week 13) <br>  <br>   | [Lecture 23 -- Ladner's Theorem and co-NP](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- Interactive Proofs](lectures/lecture24_marked.pdf) <br> [Lab 11](labs/lab11.pdf) |
-|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   | [Lecture 25 -- ZK Proofs](lectures/lecture25_marked.pdf) <br> [Lecture 26 -- Exam Review](lectures/lecture26_marked.pdf)|
+|  P and NP (Week 11) <br>  <br>   | |
+|  NP Completeness (Week 12) <br>  <br>   | |
+|  Complexity Classes (Week 13) <br>  <br>   | |
+|  Review (Week 14) <br>  <br>   | |
 
 | Summary   | Materials
 | :--- |:---  |
@@ -115,8 +114,11 @@ layout: home
 
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- |
-| 2:10-3:10 -- Freya |   10:00-11:00 -- Arkady  <br> 1:30-3:30 -- Freya <br> 5:00-6:00 -- Jie  |  3:30-5:00 -- Ozzy <br> 5:00-6:00 -- Jie <br> 6:00-8:00 -- Suvasree | 1:00-3:00 -- Laura    | 10:30-12:00 -- Ozzy <br> 12:00-1:00 -- Arkady |
+| |1:00-2:00 -- Hwa <br>    | | | |
 
+<!--
+| 2:10-3:10 -- Freya |   10:00-11:00 -- Arkady  <br> 1:30-3:30 -- Freya <br> 5:00-6:00 -- Jie  |  3:30-5:00 -- Ozzy <br> 5:00-6:00 -- Jie <br> 6:00-8:00 -- Suvasree | 1:00-3:00 -- Laura    | 10:30-12:00 -- Ozzy <br> 12:00-1:00 -- Arkady |
+-->
 </div>
 
 <!--
