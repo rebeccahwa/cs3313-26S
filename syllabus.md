@@ -57,7 +57,7 @@ The course will be taught through live lectures. As a 3 credit course, it will r
 
 **Grading:**
    * **20%: Class participation** The class participation grade will consist of the following:
-     * Discussion participation:  Students are expected to actively participate in lectures and lab by asking questions and engaging in discussion, as well as in online discussion through Piazza.  Your level of engagement will be reflected in the participation grade.
+     * Discussion participation:  Students are expected to actively participate in lectures and lab by asking questions and engaging in discussion, as well as the eight 15-minute-long one-on-one discussions with the instruction team.  Your level of engagement will be reflected in the participation grade.
      * In-class quizzes: Quizzes will be held either during the lab or during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class.   
      * Lab exercises:  There will be required in-class (group) exercises during the lab or lecture sessions.  Participation in and submission of these exercises will count towards your participation grade.
 
@@ -67,7 +67,7 @@ The course will be taught through live lectures. As a 3 credit course, it will r
     * There will be two (midterm) exams, one covering regular languages,  finite automata, context free languages and push-down automata; and the other covering computability theory. The final exam will be comprehensive but will focus mostly on content after the second midterm exam.  The exams will be worth 20% each.   
 
 **Final Grading**
-  * Do I curve the grades? Yes.
+  * The course grades will be curved.
   * Grades will be based on the 'weighted total' after curving and scaling, where the weights for each category are shown above - normalization places your total as a percentage of the highest total in the class, and curving identifies clusters.  
   * Grades in each category and your weighted total will be posted on blackboard.   
   * Grades are skewed toward the higher end if course average (or median) is high and skewed towards lower if they are low.  
@@ -85,31 +85,30 @@ The course will be taught through live lectures. As a 3 credit course, it will r
 
  **If you have a disability, or a health or a family emergency, that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
 
-**Late work policy:** There are **no late submissions** allowed in this course. The only exception to this rule is if you have a medical or family emergency, and you should contact the instructor or the TA before the due date.
+**Late work policy:** There are **no late submissions** allowed in this course. The only exception to this rule is if you have a medical or family emergency, and you should contact the instruction team before the due date.
 
 **Grades will be posted on Blackboard** -- make sure you check and inform the instructors (by email) if you see any disparity between what is posted on blackboard and what you think your grades are.  You have one week after the grades are posted to contact the instructor -- after that there will be no regrading.
 
-**Email policy:** You can send email to my GW email address. However, do not expect an instantaneous response. 
+**Email policy:** Please send email to everyone on the instruction team. We will endeavor to get back to you quickly (within 24 hours of a work day), but you should not expect instantaneous responses. 
 
 **Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you contact me. You are still responsible for all material you missed, which generally will be available on the course website or on blackboard.
 
 **Academic Integrity policy:** 
 
 You must:
-  * Do your best to solve all homework on your own first, seek allowable help only after you've thought about it for some time.
-  * Complete quizzes and exams without help.
-  * Notify me if you are using a tutor (this is not a problem, just let me know).
-
+  * Do your best to solve all homework on your own first, seek allowable help only after you've thought about it for some time. You must enumerate all resources  you referenced (even if briefly) -- this includes websites, software, books, other people. In general, it's better to over-include than under-include. 
+  * Complete quizzes and exams entirely on your own.
+  
 You may:
   * Discuss **general approaches** to solving the homework problems with other students by referring to questions in the textbook.
   * Discuss **general mathematical concepts** (proof techniques, formalisms, etc.) with another student but we strongly recommended that you contact one of the TAs or LAs for this purpose. 
-  * Discuss **general course concepts** (not specific homework problems) with an AI assistant; **however**, you _must save the transcript_ of your session and _review it with one of the TAs or LAs_.  
+  * Discuss **general course concepts** (not specific homework problems) with an AI assistant; **however**, you _must review your session with the instruction team_.  
 
 You may not:
-  * Copy homework solutions from other students or people (or places/web) outside of the class. 
-  * Have someone else complete your homework for you (including AI assistants).
+  * Copy homework solutions from another person or place. 
+  * Have someone else complete your homework for you.
   * Copy solutions from the internet.
-  * Write solution as a group and then submit identical or slightly modified versions---if you discuss general approaches to solving a problem together, you still must be writing up your own independent solution.
+  * Write solution as a group and then submit identical or slightly modified versions---if you discuss general approaches to solving a problem together, you still must be writing up your own independent solution (and don't forget to list all your study partners as "resources").
 
 
 The [Academic Integrity Code](https://github.com/GWU-CSCI3411-Fall16/hw-0-gparmer/blob/master/cs_integrity.md) will apply to this course. Please read through the code carefully. *Penalties for violating the code or the policies described here include failing this course*, and are elaborated in the [GW Academic Integrity Code](https://studentconduct.gwu.edu/code-academic-integrity). Note that the _minimum_ punishment is failure of the assignment.
