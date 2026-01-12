@@ -47,7 +47,7 @@ layout: home
 
 | Introduction  | Materials 
 | :--- |:---  |
-| Week 1-Lecture 0 |   Lecture 0 -- Course Introduction <br> [Initial Survey](https://docs.google.com/document/d/1PAEsGsk-GVeNtV4WHGlHTmDvqeegN93tZQ59bAx5NB4/edit?usp=sharing) |   
+| Week 1-Lecture 0 |   Lecture 0 -- Course Introduction <br> [Initial Survey](https://drive.google.com/file/d/1lyCgmWQlwrJI5m0glJPf2rjNRr-byuPI/view?usp=sharing) |   
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
 | Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | Lecture 1 -- Finite Automata<br> Lecture 2 -- Building DFAs <br> Lab 0 <br> |
