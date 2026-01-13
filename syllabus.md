@@ -15,10 +15,6 @@ permalink: /syllabus/
 **Office Hours:**
 Check [Course Homepage](https://rebeccahwa.github.io/cs3313-26S) for updated hours.
 
-**Online Platforms**
-* Blackboard for synchronous lectures and recordings
-* Webpage for lecture slides, tutorials, and other materials
-
 **Course Staff:**
   - [Alper Cetinkaya](mailto:alper.cetinkaya@gwu.edu) - GTA
   - [Freya Rosenstein](frrosenstein@gwu.edu) - GTA
