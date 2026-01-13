@@ -53,7 +53,7 @@ layout: home
 | :--- |:---  |
 | Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | Lecture 2 -- Deterministic Finite Automata <br> Lab 0 <br> |
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  | Lecture 3 -- Regular Languages and Nondeterminism <br> Lecture 4 -- NFA==DFA <br> Lab 1 <br> |
-| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | Lecture 5 -- NFAs and Regular Expressions <br> Lecture 6 -- Regular Language Pumping Lemma <br> Lab 2 <br> Quiz 3 |
+| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | Lecture 5 -- NFAs and Regular Expressions <br> Lecture 6 -- Regular Language Pumping Lemma <br> Lab 2 |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | Lecture 7 -- Proving Languages Not Regular <br> Lecture 8 -- PDAs  <br>  <br> Lab 3 |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  | Lecture 9 -- Context Free Grammars <br> Lecture 10 -- CFG=PDA <br> Lab 4 |
 | <br> <b> Exam 1 (Week 6)  </b> | All material on finite automata <br> Lecture 11 -- Exam review |
@@ -75,37 +75,6 @@ layout: home
 | Summary   | Materials
 | :--- |:---  |
 | <b> Final Exam </b> TBD | Comprehensive but will focus primarily on material after Exam 2.|
-
-<!---
-
-| Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
-| :--- |:---  |
-|  Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  |  [Lecture 1 -- Introduction to Finite Automata]() <br> [Lecture 2 -- Building Finite Automata]() <br> [Lab 1]() <br> [Quiz 1]()|
-| Nondeterministic Finite Automata (Week 2) <br>  <br>  |  [Lecture 3 -- Introduction to NFAs](lectures/lecture3_handout.pdf) <br> [Lecture 4 -- NFAs and Equivalence to DFAs ](lectures/lecture4_marked.pdf) <br> [Lab 2](labs/Lab2_website.pdf) <br> [Quiz 2](quiz/quiz2.pdf) |
-| Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  |  [Lecture 5 -- Regular Expressions and equivalence to NFAs](lectures/lecture5_marked.pdf) <br> [Lecture 6 --  Pumping Lemma](lectures/lecture6_marked.pdf) <br> [Lab 3](labs/Lab3_website.pdf) <br> [Quiz 3](quiz/quiz3.pdf) |
-| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  |  [Lecture 7 -- Using the FA pumping lemma](lectures/lecture7_marked.pdf) <br> [Lecture 8 --  Pushdown Automata ](lectures/lecture8.pdf) <br> [Lab 4](labs/Lab4_website.pdf) |
-| Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  |  [Lecture 9 -- CFGs](lectures/lecture9.pdf) <br> [Lecture 10 --  PDA==CFG, and CFG Pumping Lemma ](lectures/lecture10_marked.pdf) <br> [Lab 5](labs/lab5_website.pdf) |
-| <br> <b> Exam 1 (Week 6) Feb. 23 </b> | [Lecture 11 -- CFL pumping lemma and exam review](lectures/lecture11_marked.pdf) <br> All material on automata and languages they recognize. |
-
-| Computability Theory (Weeks 7-10)  | Materials
-| :--- |:---  |
-|  Turing Machines (Week 7) <br>  <br>   |  [Lecture 12 -- Introduction to Turing Machines](lectures/lecture12.pdf) <br> [Lecture 13 -- Properties of Turing Machines](lectures/lecture13_marked.pdf) <br> [Lab 6](labs/Lab6_website.pdf) |
-|  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   |  [Lecture 14 -- Decidable Languages](lectures/lecture14_marked.pdf) <br> [Lecture 15 -- Undecidability](lectures/lecture15_marked.pdf) <br> [Lab 7](labs/Lab7_website.pdf) |
-|  Reductions (Week 9) <br>  <br>   |  [Lecture 16 -- Proving Undecidability by Reduction](lectures/lecture16_marked.pdf) <br> [Lecture 17 -- Reducibility and Kolmogorov Complexity](lectures/lecture17_marked.pdf) <br> [Lab 8](labs/Lab8_website.pptx) |
-| <b> Exam 2 (Week 10) Mar. 30 </b> | All material on Turing machines and computability <br> [Lecture 18 -- exam review](lectures/lecture18.pdf) |
-
-| Complexity Theory (Weeks 11-14)  | Materials
-| :--- |:---  |
-|  P and NP (Week 11) <br>  <br>   |  [Lecture 19 -- Deterministic Time Complexity and P](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- The Class NP](lectures/lecture20_marked.pdf) <br> [Lab 9](labs/Lab9_website.pptx) |
-|  NP Completeness (Week 12) <br>  <br>   |  [Lecture 21 -- NP Completeness of SAT](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- More NP-complete Problems and co-NP](lectures/lecture22_marked.pdf) <br> [Lab 10](labs/Lab10.pdf) |
-|  Interactive Proofs (Week 13) <br>  <br>   |  [Lecture 23 -- Interactive Proof for GNI](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- co-NP \subseteq IP](lectures/lecture24_marked.pdf) <br> [Lab 11](labs/Lab11_website.pdf) |
-|  Zero-Knowledge Proofs and Review (Week 14) <br>  <br>   |  [Lecture 25 -- Zero-Knowledge Proofs](lectures/lecture25_marked.pdf) <br> [Lecture 26 -- Course review](lectures/lecture26_marked.pdf)  |
-
-| Summary   | Materials
-| :--- |:---  |
-| <b> Final Exam </b> May 9, 10:20-12:20 | Comprehensive but will focus primarily on material after Exam 2.|
-
--->
 
 </div>
 
