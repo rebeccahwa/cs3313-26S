@@ -54,7 +54,7 @@ layout: home
 | Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | Lecture 2 -- Deterministic Finite Automata <br> Lab 0 <br> |
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  | Lecture 3 -- Regular Languages and Nondeterminism <br> Lecture 4 -- NFA==DFA <br> Lab 1 <br> |
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | Lecture 5 -- NFAs and Regular Expressions <br> Lecture 6 -- Regular Language Pumping Lemma <br> Lab 2 |
-| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | Lecture 7 -- Proving Languages Not Regular <br> Lecture 8 -- PDAs  <br>  <br> Lab 3 |
+| Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | Lecture 7 -- Proving Languages Not Regular <br> Lecture 8 -- PDAs <br> Lab 3 |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  | Lecture 9 -- Context Free Grammars <br> Lecture 10 -- CFG=PDA <br> Lab 4 |
 | <br> <b> Exam 1 (Week 6)  </b> | All material on finite automata <br> Lecture 11 -- Exam review |
 
