@@ -47,7 +47,7 @@ layout: home
 
 | Introduction  | Materials 
 | :--- |:---  |
-| Week 1-Lecture 1 |   Lecture 1 -- [Course Introduction](https://docs.google.com/presentation/d/168kl142bp-fgjTM4m-gv6VhcpcX60tmEmRKJtEoUbxY/edit?usp=sharing) <br> [Initial Survey](https://drive.google.com/file/d/1lyCgmWQlwrJI5m0glJPf2rjNRr-byuPI/view?usp=sharing) |  
+| Week 1-Lecture 1 |   Lecture 1 -- [Introduction and Overview](https://docs.google.com/presentation/d/168kl142bp-fgjTM4m-gv6VhcpcX60tmEmRKJtEoUbxY/edit?usp=sharing) <br> [Initial Survey](https://drive.google.com/file/d/1lyCgmWQlwrJI5m0glJPf2rjNRr-byuPI/view?usp=sharing) |  
 
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
