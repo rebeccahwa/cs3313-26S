@@ -52,7 +52,7 @@ layout: home
 | Finite State Automata and Pushdown Automata (Weeks 1-6) | Materials
 | :--- |:---  |
 | Deterministic Finite Automata (Week 1) <br> Chapter 1.1 (Sipser) <br> Chapter 2 (Linz)  | Lecture 2 -- [Deterministic Finite Automata](https://docs.google.com/presentation/d/1BvCSif-rJrQhmVMg_0wW3m4voX0RwSY4ZeaiIL1CH2M/edit?usp=sharing) <br> [Lab 0](https://drive.google.com/file/d/1GJVfKHKy3Pa6RJ2C-B5PooTqnCVrSWP_/view?usp=sharing) <br> |
-| Nondeterministic Finite Automata (Week 2) <br>  <br>  | Lecture 3 -- [Regular Languages](https://docs.google.com/presentation/d/1wIcu48CXruc3IgCePBSA2bxivoSZKQd_BI27jCatD_g/edit?usp=sharing)<br> Lecture 4 -- non-deterministic finite state automata <br> Lab 1 <br> |
+| Nondeterministic Finite Automata (Week 2) <br>  <br>  | Lecture 3 -- [Regular Languages](https://docs.google.com/presentation/d/1wIcu48CXruc3IgCePBSA2bxivoSZKQd_BI27jCatD_g/edit?usp=sharing)<br> Lecture 4 -- [non-determinism](https://docs.google.com/presentation/d/1H-EJQUXhbINQJcUywAOBswMxweVFFGJkUw_earpFLjI/edit?usp=sharing) <br> Lab 1 <br> |
 | Regular Expressions and Non-regular Languages (Week 3) <br>  <br>  | Lecture 5 -- NFAs and Regular Expressions <br> Lecture 6 -- Regular Language Pumping Lemma <br> Lab 2 |
 | Non-regular Languages and Pushdown Automata (Week 4) <br>  <br>  | Lecture 7 -- Proving Languages Not Regular <br> Lecture 8 -- PDAs <br> Lab 3 |
 | Context-Free Grammars and Equivalence to PDAs (Week 5) <br>  <br>  | Lecture 9 -- Context Free Grammars <br> Lecture 10 -- CFG=PDA <br> Lab 4 |
