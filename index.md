@@ -82,8 +82,7 @@ layout: home
 
 <div style="font-size:90%">
 
-The instruction team's availability for the week of Jan. 20 - Jan. 23 is [here](https://docs.google.com/spreadsheets/d/18wca-fq27raxHu6m8_mAQlqdo17i-qZpblK2g_H9MVk/edit?usp=sharing). 
-All office hours will be held in the common area outside of 4000 SEH.  
+The instruction team's availability for the current week is [here](https://docs.google.com/spreadsheets/d/18wca-fq27raxHu6m8_mAQlqdo17i-qZpblK2g_H9MVk/edit?usp=sharing). Any designated time slot not claimed by one-on-one meetings is open for general purpose questions from anyone in the class. All office hours will be held in the common area outside of 4000 SEH.  
 
 <!--
 | Monday  | Tuesday | Wednesday | Thursday | Friday |
