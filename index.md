@@ -55,12 +55,12 @@ layout: home
 | Nondeterministic Finite Automata (Week 2) <br>  <br>  | Lecture 3 -- [Regular Languages](https://docs.google.com/presentation/d/1wIcu48CXruc3IgCePBSA2bxivoSZKQd_BI27jCatD_g/edit?usp=sharing)<br> Lecture 4 -- [non-determinism](https://docs.google.com/presentation/d/1H-EJQUXhbINQJcUywAOBswMxweVFFGJkUw_earpFLjI/edit?usp=sharing) <br> [Lab 1](https://drive.google.com/file/d/1Bc4mhygSw73vg95VulZZSzBOgvZLhNHS/view?usp=drivesdk) <br> |
 | Regular Expressions (Week 3) <br> Chapters 1.2, 1.3 (Sipser) <br>  | Lecture 5 -- [NFAs and Regular Expressions](https://docs.google.com/presentation/d/1zGx6ElZ_lq1KKIYqUUESY5r855mxzZAyuaZdETNwzzQ/edit?usp=sharing) <br> Lecture 6 -- [Snow Day Review](https://drive.google.com/file/d/1bKIHtEQ-PqcXvFdGzL5lCOMzos7v-PEH/view?usp=share_link) <br> [Lab 2](https://drive.google.com/file/d/12Rs31PxGu0xDDzAv3Craq8Uj2stWUsxs/view?usp=sharing) |
 | Non-regular Languages (Week 4) <br> Chapters 1.4, 2.1 (Sipser)  <br>  | Lecture 7 -- [Regular Language Pumping Lemma](https://docs.google.com/presentation/d/1eJx4Z61cZDlmzEzAq1FHOvksyGXQ2vq3alb_kCtJMVc/edit?usp=share_link) <br> Lecture 8 -- [context-free grammars](https://docs.google.com/presentation/d/1sWUV1-CX680fiRMitmkcW10b7ha1AmFad8wwwz7sZkc/edit?usp=sharing) <br> [Lab 3](https://drive.google.com/file/d/1xuBKCzWfZOTLB-DE1t1OcpFxMf5R_Xt_/view?usp=sharing) |
-| Pushdown Automata and Equivalence to CFG (Week 5) <br> Chapter 2.2 (Sipser) <br>  | Lecture 9 -- [Pushdown Automata](https://docs.google.com/presentation/d/1gLROdk7tO3kU8rIySLcIgQiAm4g-P8NovC3EWP1-7UI/edit?usp=sharing) <br> Lecture 10 -- [PDA, CFG, & CF-Pumping Lemma](https://docs.google.com/presentation/d/1WV9a3WF-7o25yoLrZwkn4yS3sP3BAroxI4LOcxs5pq8/edit?usp=sharing) <br> Lab 4 |
+| Pushdown Automata and Equivalence to CFG (Week 5) <br> Chapter 2.2 (Sipser) <br>  | Lecture 9 -- [Pushdown Automata](https://docs.google.com/presentation/d/1gLROdk7tO3kU8rIySLcIgQiAm4g-P8NovC3EWP1-7UI/edit?usp=sharing) <br> Lecture 10 -- [PDA, CFG, & CF-Pumping Lemma](https://docs.google.com/presentation/d/1WV9a3WF-7o25yoLrZwkn4yS3sP3BAroxI4LOcxs5pq8/edit?usp=sharing) <br> [Lab 4](https://drive.google.com/file/d/1LP-Pqw0Z4Wukt7jSMr_W05lKEjiB9aOB/view?usp=sharing) |
 |  <b> Exam 1 (Week 6)  </b> |  Tuesday lecture: Exam review |
 
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
-|  Turing Machines (Week 7) <br> Chapter 3.1 (Sipser) <br>   |  Lecture 11 -- [Intro to Turing Machine](https://docs.google.com/presentation/d/1eLtH9JoNz0LNqQV750mXwUqbGOHIe7hi7nvyHixmuKo/edit?usp=sharing) <br>
+|  Turing Machines (Week 7) <br> Chapter 3.1 (Sipser) <br>   |  Lecture 11 -- [Intro to Turing Machine](https://docs.google.com/presentation/d/1eLtH9JoNz0LNqQV750mXwUqbGOHIe7hi7nvyHixmuKo/edit?usp=sharing) <br> Lab 5 <br>
 |  Decidable and Turing-recognizable Languages (Week 8) <br>  <br>   | |
 |  Reductions (Week 9) <br>  <br>   | |
 | <b> Exam 2 (Week 10) </b> | |
