@@ -61,7 +61,7 @@ layout: home
 | Computability Theory (Weeks 7-10)  | Materials
 | :--- |:---  |
 |  Turing Machines (Week 7) <br> Chapter 3.1 (Sipser) <br>   |  Lecture 11 -- [Intro to Turing Machine](https://docs.google.com/presentation/d/1eLtH9JoNz0LNqQV750mXwUqbGOHIe7hi7nvyHixmuKo/edit?usp=sharing) <br> Lecture 12 -- [More about Turing Machines](https://docs.google.com/presentation/d/1aSRNL8C9O6qXKvK8KbQNIjOadegn148dyh7YJBkko8U/edit?usp=sharing) <br> [Lab 5](https://drive.google.com/file/d/1DAjB7cbPyB7e5UJ5WYpA8inb8yDJfdav/view?usp=share_link) <br>
-|  Decidable and Turing-recognizable Languages (Week 8) <br> Chapter 4 (Sipser) <br>   | Lecture 13 -- [Decidability and Recognizability](https://docs.google.com/presentation/d/1KEXFueX604v19-d0u5E5wF01HWh73BYgWqlRe1eDiAU/edit?usp=sharing) <br> Lecture 14 <br> Lab 6 <br> |
+|  Decidable and Turing-recognizable Languages (Week 8) <br> Chapter 4 (Sipser) <br>   | Lecture 13 -- [Decidability and Recognizability](https://docs.google.com/presentation/d/1KEXFueX604v19-d0u5E5wF01HWh73BYgWqlRe1eDiAU/edit?usp=sharing) <br> [Lecture 14](https://docs.google.com/presentation/d/1WRA071qnngZckcD89On5ImopcFzrH_OUThOJdEv15I4/edit?usp=sharing) <br> [Lab 6](https://drive.google.com/file/d/1_ls2F8a9G3tvWEbB1U7OXKfDqrBAG5si/view?usp=sharing) <br> |
 |  SPRING BREAK! <br>  <br>   | |
 |  Reductions (Week 9) <br>  <br>   | |
 | <b> Exam 2 (Week 10) </b> | |
