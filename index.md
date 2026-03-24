@@ -64,7 +64,7 @@ layout: home
 |  Decidable and Turing-recognizable Languages (Week 8) <br> Chapter 4 (Sipser) <br>   | Lecture 13 -- [Decidability and Recognizability](https://docs.google.com/presentation/d/1KEXFueX604v19-d0u5E5wF01HWh73BYgWqlRe1eDiAU/edit?usp=sharing) <br> Lecture 14 -- [More on Decidability](https://docs.google.com/presentation/d/1WRA071qnngZckcD89On5ImopcFzrH_OUThOJdEv15I4/edit?usp=sharing) <br> [Lab 6](https://drive.google.com/file/d/1_ls2F8a9G3tvWEbB1U7OXKfDqrBAG5si/view?usp=sharing) <br> |
 |  SPRING BREAK! <br>  <br>   | |
 |  Reductions (Week 9) <br> | Lecture 15 -- [Reductions](https://docs.google.com/presentation/d/1XtZUd2XGSRh3OBDl_xDO6-r1Rk7T9BSpbYwQo21AWUc/edit?usp=sharing) <br> Lecture 16 -- [More reductions](https://docs.google.com/presentation/d/1d3ZjnPeomNa4D4yfevFWlNT3aLNMtHyvBkZ8kps-wws/edit?usp=sharing) <br> [Lab 7](https://drive.google.com/file/d/1-tHSU8HXjl2u5tkj6IL0mh98nq0ewXIq/view?usp=sharing) <br>   | |
-| <b> Exam 2 (Week 10) </b> | Tuesday lecture: Review |
+| <b> Exam 2 (Week 10) </b> | Tuesday lecture: [Review](https://docs.google.com/presentation/d/1eL2ljmuUKKUNC8sgE2xL4c3_J5Gfr5vHFOKEg1utBGo/edit?usp=sharing) |
 
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
@@ -75,7 +75,7 @@ layout: home
 
 | Summary   | Materials
 | :--- |:---  |
-| <b> Final Exam </b> TBD | Comprehensive but will focus primarily on material after Exam 2.|
+| <b> Final Exam </b> May 5th | Comprehensive but will focus primarily on material after Exam 2.|
 
 </div>
 
