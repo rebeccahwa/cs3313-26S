@@ -68,7 +68,7 @@ layout: home
 
 | Complexity Theory (Weeks 11-14)  | Materials
 | :--- |:---  |
-|  Introduction to complexity theory (Week 11) <br> Chapter 7 (Sipser) <br>   | Lecture 17 -- [Complexity](https://docs.google.com/presentation/d/1IvST1rlK9ZJdEyxqUN90S0Z31u37IWfyU3aZhzr1pTU/edit?usp=sharing) <br> Lecture 18 -- P and NP <br> Lab 8|
+|  Introduction to complexity theory (Week 11) <br> Chapter 7 (Sipser) <br>   | Lecture 17 -- [Complexity](https://docs.google.com/presentation/d/1IvST1rlK9ZJdEyxqUN90S0Z31u37IWfyU3aZhzr1pTU/edit?usp=sharing) <br> Lecture 18 -- [P and NP](https://docs.google.com/presentation/d/1zZ-0ph89kG7P88o3DRlvlCs15VhoFRAgfgXWTofym5g/edit?usp=sharing) <br> Lab 8|
 |  NP Completeness (Week 12) <br>  <br>   | |
 |  Complexity Classes (Week 13) <br>  <br>   | |
 |  Review (Week 14) <br>  <br>   | |
