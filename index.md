@@ -70,7 +70,7 @@ layout: home
 | :--- |:---  |
 |  Introduction to complexity theory (Week 11) <br> Chapter 7 (Sipser) <br>   | Lecture 17 -- [Complexity](https://docs.google.com/presentation/d/1IvST1rlK9ZJdEyxqUN90S0Z31u37IWfyU3aZhzr1pTU/edit?usp=sharing) <br> Lecture 18 -- [P and NP](https://docs.google.com/presentation/d/1zZ-0ph89kG7P88o3DRlvlCs15VhoFRAgfgXWTofym5g/edit?usp=sharing) <br> [Lab 9](https://drive.google.com/file/d/1kWHduwdWyrnRUK3WucrBE4pmxoPCqntM/view?usp=sharing)|
 |  NP Completeness (Week 12) <br>  <br>   | Lecture 19 -- [Poly-Time Reduction](https://docs.google.com/presentation/d/1lg7_6hOaQiNMLefjz0qDNq2FCoKdb2QNwXCzjYs4D6s/edit?usp=sharing) <br> Lecture 20 -- [SAT is NP-Complete](https://docs.google.com/presentation/d/1UHXQJ3QMEvrCouc3cSIVV-EDgrUqhdxBQu_H7ooyVv8/edit?usp=sharing) <br> [Lab 10](https://drive.google.com/file/d/1raIu41HYqDs6c3Es4rZtR8HenDQmOYBR/view?usp=sharing) |
-|  Complexity Classes (Week 13) <br>  <br>   | |
+|  More NP-Completeness  (Week 13) <br> | Lecture 21 -- [NP-Completeness](https://docs.google.com/presentation/d/1CdlxWUzsUS8vsslFKsg3YGswtfjsnmZeU0hX5VmQErA/edit?usp=sharing) <br> Lecture 22 <br> Lab 11  <br>    |
 |  Review (Week 14) <br>  <br>   | |
 
 | Summary   | Materials
